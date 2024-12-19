@@ -3,7 +3,7 @@
 
 ## Introducció
 
-En el seu llibre El software toma el mando, Lev Manovich parla de la hibridació com la fusió de diferents mitjans i tecnologies que creen noves experiències i formats. Aquesta idea no només es tracta de combinar coses ja existents, sinó de transformar-les per generar realitats completament noves. Manovich ens fa veure com la tecnologia ens permet fusionar mitjans tradicionals com la literatura o el cinema amb altres digitals, com els videojocs o la intel·ligència artificial, per crear alguna cosa única.
+En el seu llibre "El software toma el mando", Lev Manovich parla de la hibridació com la fusió de diferents mitjans i tecnologies que creen noves experiències i formats. Aquesta idea no només es tracta de combinar coses ja existents, sinó de transformar-les per generar realitats completament noves. Manovich ens fa veure com la tecnologia ens permet fusionar mitjans tradicionals com la literatura o el cinema amb altres digitals, com els videojocs o la intel·ligència artificial, per crear alguna cosa única.
 
 En aquest treball, explorarem dos exemples recents d’hibridació. El primer és l’ús de la robòtica en teràpies per a persones amb autisme, on la tecnologia interactua amb les pràctiques terapèutiques per oferir noves solucions a aquest repte. El segon exemple és l’aplicació del metavers per a reunions corporatives, una nova forma de connectar a persones de tot el món, amb la realitat virtual transformant l’espai laboral com mai abans.
 
